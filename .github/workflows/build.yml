@@ -1,4 +1,9 @@
 # azurehelloworld
+<properties>
+  <sonar.organization>maha1</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
 name: Build
 on:
   push:
